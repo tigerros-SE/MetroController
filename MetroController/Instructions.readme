@@ -1,0 +1,6 @@
+﻿Commands:
+
+speed straight - Changes the speed to the max straight tracks speed (currently 100 m/s).
+speed turn - Changes the speed to the max turned tracks speed (currently 55 m/s).
+speed prestop - Slows down the speed to be ready to stop completely in a station (currently 10 m/s).
+speed stop - Stops completely.
